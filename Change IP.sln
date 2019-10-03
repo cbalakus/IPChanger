@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Change IP", "Change IP\Change IP.csproj", "{1C67AED4-9D41-4620-B987-BA35D0BB4EDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C67AED4-9D41-4620-B987-BA35D0BB4EDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C67AED4-9D41-4620-B987-BA35D0BB4EDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C67AED4-9D41-4620-B987-BA35D0BB4EDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C67AED4-9D41-4620-B987-BA35D0BB4EDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4570E021-A4BC-416A-A779-A1580682453B}
+	EndGlobalSection
+EndGlobal
